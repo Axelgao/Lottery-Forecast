@@ -1,2 +1,2 @@
 # Lottery-Forecast
-Spare Time Coding Example(Python):  Data Analysis, Web API, Dynamic Data Set, Predictive Modelling (Regression)
+Spare Time Coding Sample(Python):  Data Analysis, Web API, Dynamic Data Set, Predictive Modelling (Regression)
